@@ -1,8 +1,9 @@
 # REST-APIs-com-Python-e-Flask
 
-## REST API desenvolvida que recebe sites que hospedam hotéis e filtra o resultado entre eles.
+## O que é:
+REST API desenvolvida que recebe sites que hospedam hotéis e filtra o resultado entre eles.
 
-## Possui os seguintes services:
+## O que faz:
 + Cadastrar usuários (login, senha e um token).
 + Métodos de requisição (GET, POST, PUT, DEL) para hotéis.
 + Métodos de requisição (GET, POST, PUT, DEL) para sites.
