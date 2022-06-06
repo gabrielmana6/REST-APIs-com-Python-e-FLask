@@ -4,7 +4,7 @@
 REST API desenvolvida que recebe sites que hospedam hotéis e filtra o resultado entre eles.
 
 ## O que faz:
-+ Cadastra usuários (login, senha e um token).
++ Cadastra usuários com um login e senha e emite um token de acesso para utilizar os métodos abaixo.
 + Métodos de requisição (GET, POST, PUT, DEL) para hotéis.
 + Métodos de requisição (GET, POST, PUT, DEL) para sites.
 
