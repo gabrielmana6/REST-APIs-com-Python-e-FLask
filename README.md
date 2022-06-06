@@ -1,4 +1,4 @@
-# REST-APIs-com-Python-e-FLask
+# REST-APIs-com-Python-e-Flask
 
 Utiliza a versão 3.7 do Python.
 
