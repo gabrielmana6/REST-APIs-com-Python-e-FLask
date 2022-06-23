@@ -2,8 +2,8 @@ from sql_alchemy import banco
 from flask import request, url_for
 from requests import post
 
-MAILGUN_DOMAIN = 'sandboxd90e80dbcd3f4429abf9313de0f312d2.mailgun.org'
-MAILGUN_API_KEY = 'e9f59547a5e5e8fb3e1d1baa2ab87549-4f207195-a9517109'
+MAILGUN_DOMAIN = '' # Colocar o domínio do MAILGUN
+MAILGUN_API_KEY = '' # Colocar a sua API_KEY do MAILGUN
 FROM_TITLE = 'NO-REPLY'
 FROM_EMAIL = 'no-reply@restapi.com'
 
